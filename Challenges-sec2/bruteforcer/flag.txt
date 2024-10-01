@@ -1,0 +1,2 @@
+Enter your password : CORRECT!!
+Here's your flag:[1;32m flag{b1n42y_s3r2ch_f7w}[0m penniless
